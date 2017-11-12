@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntentsReview</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password:</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="username">Username:</string>
+    <string name="please_sign_in">Please Sign In</string>
+    <string name="remember_me">Remember Me?</string>
+    <string name="submit">SUBMIT</string>
+    <string name="not_yet_registered">Not Yet Registered?</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="please_register">Please Register.</string>
+    <string name="username2">Username:</string>
+    <string name="enter_email_address2">Enter Email Address</string>
+    <string name="password2">Password:</string>
+    <string name="enter_password2">Enter Password</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+</resources>
